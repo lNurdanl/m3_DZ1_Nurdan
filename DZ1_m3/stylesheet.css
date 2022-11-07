@@ -1,0 +1,12 @@
+.block{
+    width: 1500px;
+    height: 600px;
+    background: red;
+    position: relative;
+}
+.secondblock {
+    width: 100px;
+    height: 100px;
+    background: #081041;
+    position: absolute;
+}
